@@ -1,6 +1,6 @@
 # Code Editor
 
-A lightweight, browser-based code editor with syntax highlighting and live preview capabilities.
+A lightweight, browser-based HTML editor with syntax highlighting and live preview capabilities.
 
 ## Features
 
@@ -62,5 +62,6 @@ Works in all modern browsers supporting:
 - Fullscreen API
 
 ## License
+
 
 Open source - modify and use freely
